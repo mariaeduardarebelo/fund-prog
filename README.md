@@ -7,7 +7,7 @@
 
 # PROJECT
 
-App focused on serving as an **informative space** regarding _LGPD - Lei Geral de Proteção de Dados_, with descriptive information regarding the regulation's legal criteria for _compliance_ and other _insights_ of implantation in a multitude of context. Users are also able to **keep track** of their progress through a checklist and a compartmentalized view of their compliance process informative dashboard.
+App focused on serving as an **informative space** regarding _LGPD - Lei Geral de Proteção de Dados_, with descriptive information regarding the regulation's legal criteria for _compliance_ and other _insights_ on implantation in a multitude of context. Users are also able to **keep track** of their progress through a checklist and a compartmentalized view of their compliance process informative dashboard.
 
 ## HOW IT WORKS
 
@@ -23,4 +23,6 @@ This app works as a tracking database for those looking to comply with LGPD in a
 
 2. **Checklist**
 
-3. 
+3. **Dashboard**
+
+4. **News section**
