@@ -1,8 +1,10 @@
-# LGPDAPP
+# EASY COMPLY
 
 > Repo concerning MSc course 'Fundamentos de Programação Aplicada' project. 
 
 ### APP LOGO
+
+![rsz_easycomplylogo_1](https://user-images.githubusercontent.com/14913386/114319238-0d86e800-9ae7-11eb-8a21-13dc59ecf470.png)
 
 
 # PROJECT
